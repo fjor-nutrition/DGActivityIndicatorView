@@ -25,7 +25,6 @@ let package = Package(
             name: "DGActivityIndicatorView",
             dependencies: [],
             path: "DGActivityIndicatorView",
-            sources: ["Animations"],
             cSettings: [.headerSearchPath("Animations")]),
     ]
 )
