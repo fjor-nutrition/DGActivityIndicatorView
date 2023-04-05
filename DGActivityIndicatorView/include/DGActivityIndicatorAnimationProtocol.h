@@ -1,0 +1,1 @@
+../DGActivityIndicatorAnimationProtocol.h
