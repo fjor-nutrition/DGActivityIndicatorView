@@ -25,6 +25,8 @@ let package = Package(
             name: "DGActivityIndicatorView",
             dependencies: [],
             path: "DGActivityIndicatorView",
-            cSettings: [.headerSearchPath("Animations")]),
+            cSettings: [
+                .headerSearchPath("Animations"),
+                .headerSearchPath(".")]),
     ]
 )
